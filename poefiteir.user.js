@@ -23,8 +23,8 @@
     // =========================================================================
     const STATS_URL = "https://raw.githubusercontent.com/SnosMe/awakened-poe-trade/master/renderer/public/data/en/stats.ndjson";
     const ITEMS_URL = "https://raw.githubusercontent.com/SnosMe/awakened-poe-trade/master/renderer/public/data/en/items.ndjson";
-    const CACHE_HOURS = 24;
-    const CACHE_SCHEMA_VERSION = 2;
+    const CACHE_HOURS = ;
+    const CACHE_SCHEMA_VERSION = 144;
     const FALLBACK_LEAGUE = "Standard";
 
     // =========================================================================
