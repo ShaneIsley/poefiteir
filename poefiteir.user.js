@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PoE Profile → Trade
+// @name         Poefiteir
 // @namespace    https://github.com/ShaneIsley/poefiteir
 // @version      0.1.1
 // @description  Look up any account's characters on pathofexile.com, inspect their gear, and create trade searches for similar items.
