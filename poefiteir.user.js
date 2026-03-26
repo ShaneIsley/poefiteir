@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PoE Profile → Trade
-// @namespace    https://github.com/ShaneIsley/poe-ninja-trade
+// @namespace    https://github.com/ShaneIsley/poefiteir
 // @version      0.1.1
 // @description  Look up any account's characters on pathofexile.com, inspect their gear, and create trade searches for similar items.
 // @author       ShaneIsley
